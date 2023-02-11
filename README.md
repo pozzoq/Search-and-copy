@@ -4,4 +4,4 @@ This is a simple script that allows to automatically perform a recursive search 
 The GUI is created with tkinter library in python.
 The bash script that an be run via terminal is also provided.
 
-![Screenshot 2023-02-03 alle 11 03 32](https://user-images.githubusercontent.com/26720735/216571804-85979779-70e4-4ca0-8341-2d14bfb9a4cb.png)
+![Screenshot 2023-02-11 alle 22 56 55](https://user-images.githubusercontent.com/26720735/218282799-4c32c89f-7db3-43ab-9f93-3d33fd90a192.png)
